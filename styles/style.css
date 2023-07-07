@@ -98,7 +98,7 @@ nav a{
 }
 
 /* main section styles */
-.section-tile{
+.section-title{
     color: #181818;
     text-align: center;
     font-size: 35px;
@@ -137,4 +137,37 @@ main{
 }
 .about-info{
     text-align: center;
+}
+ .info-title{
+    margin-bottom: 0;
+ }
+.info-description{
+    font-weight: bold;
+    margin-top: 0;
+}
+
+#what-i-do-description{
+    padding: 30px 150px;
+}
+
+.skills-container{
+
+
+}
+
+.skill{
+
+
+}
+
+.skill-title{
+
+
+
+}
+
+.skill-description{
+
+
+    
 }
